@@ -1,6 +1,6 @@
 # CZ3001 : Advanced Computer Architecture
 
-## Brief Description
+## Learning Outcome
 After completing the course, I have gained excellent understanding of **pipelining** and its implementation in assembly language and different types of **parallelism** and their **strengths and weaknesses**.
 
 ## Coursework Assignment
