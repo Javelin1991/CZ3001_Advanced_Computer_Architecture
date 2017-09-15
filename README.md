@@ -4,13 +4,10 @@
 After completing the course, I have gained excellent understanding of **pipelining** and its implementation in assembly language and different types of **parallelism** and their **strengths and weaknesses**.
 
 ## Coursework Assignment
-Implementation of code for a given set of data structure related questions. Tasks include implementation of : 
-
-- a function that aims to ``sort`` the items in the ``linkedlist`` in the ascending order.
-- a function that aims to move all the odd items in a linkedlist to the back and the even items, to the front
-- a function that aims to ``create`` a ``Queue`` based on the items from a linkedlist. 
-- a function that aims to remove all the odd items from the Queue
-- a function that aims to print the items in a ``Binary Search Tree`` in post-order manner by using ``iterative method`` with ``two stacks``
+- modified the ``4-stage pipelined processor`` to include ``load word (lw)`` and ``store word(sw)`` instructions
+- transformed it into a ``5 stage pipelined processor``
+- analyzed the operation of 5 stage pipelined data path and 
+- ``simulated`` the LW and sw instructions along with rtype and addi instructions 
 
 ## Knowledge Accquired includes: 
 
